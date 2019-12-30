@@ -10,4 +10,4 @@ You can arrive at Hiroshima station via a major Japanese station by one of the f
 
 From the very same Hiroshima Station where the Shinkansen stops, the Geibi Line train also departs with its ancient steam engine which often gets delayed (stay tuned for the reason of the delay). After a few stations, the Geibi line goes into such rural territory that you won’t even see any station staff or those high tech Japanese station gates at the stations. You can get in/out off the stations at your will. The train track becomes a single line, which is one of the reasons the train gets delayed in that line. And another reason is that, in the remote destinations on the Geibi line, at times, the deer collide with the train, causing the delay! 
 
-*Location: Shirakiyama, Hiroshima, Japan 
+*Location: Shirakiyama, Hiroshima, Japan* 
