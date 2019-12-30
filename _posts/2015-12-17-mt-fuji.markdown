@@ -1,9 +1,0 @@
----
-layout: post
-title: "Mt. Fuji"
-img: mt_fuji.jpg # Add image post (optional)
-date: 2015-12-17
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Mountain]
----
-“He who does not climb Mt.Fuji is a fool, but he who climbs Mt.Fuji twice is also a fool” - Japanese proverb
