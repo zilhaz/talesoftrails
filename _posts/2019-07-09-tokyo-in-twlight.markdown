@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "The Kaaba"
-img: the_kaaba_daytime.jpg # Add image post (optional)
-date: 2019-08-09
+title: "Tokyo in Twilight"
+img: tokyo_tower_twlight.jpg # Add image post (optional)
+date: 2019-07-09
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [The_Kaaba, Haram_Mosque]
+tag: [Tokyo, Twilight]
 ---
-*Location: Mecca, Saudi Arabia*
+*Location: Tokyo, Japan*
