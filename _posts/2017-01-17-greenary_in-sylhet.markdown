@@ -8,4 +8,4 @@ tag: [Sylhet, Bangladesh, Tea_Garden]
 ---
 Sylhet, a city in Bangladesh, has a vast amount of greenery and one of the reasons contributing to this is tea gardens. If you ever visit Sylhet, be sure to check out these spectacular tea gardens! 
 
-*location: Sylhet, Bangladesh*
+*Location: Sylhet, Bangladesh*

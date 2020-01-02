@@ -8,4 +8,4 @@ tag: [Waterfall]
 ---
 The gush of water streaming down this waterfall has so much force but at the same time, it is flowing so smoothly. If this is not an astounding dichotomous creation, then I don't know what is!
 
-*location: Shosenkyo Gorge, Yamanashi, Japan*
+*Location: Shosenkyo Gorge, Yamanashi, Japan*

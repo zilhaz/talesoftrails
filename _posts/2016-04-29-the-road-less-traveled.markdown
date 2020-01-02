@@ -7,4 +7,4 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 tag: [Hakone]
 ---
 
-*location: Hakone, Japan*
+*Location: Hakone, Japan*
