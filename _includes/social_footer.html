@@ -11,11 +11,6 @@
   {% else %}
   <li><a href="#" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
   {% endif %}
-  {% if site.instagram_url %}
-  <li><a href="{{ site.instagram_url }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-  {% else %}
-  <li><a href="#" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
-  {% endif %}
   {% if site.pinterest_url %}
   <li><a href="{{ site.pinterest_url }}" target="_blank"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
   {% else %}
@@ -31,5 +26,10 @@
   <li><a href="{{ site.facebook_url }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
   {% else %}
   <li><a href="#" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
+  {% endif %}
+  {% if site.instagram_url %}
+  <li><a href="{{ site.instagram_url }}" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
+  {% else %}
+  <li><a href="#" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
   {% endif %}
 </ul>
