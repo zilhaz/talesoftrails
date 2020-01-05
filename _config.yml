@@ -12,11 +12,10 @@ banner-desc: # add banner description
 
 # Author settings
 author-pic: profile.jpg # your photo
-author-name: # your name
+author-name: Zilhaz Jalal Chowdhury & Sadea Shahan
 about-author: # about author
-email: your-email@domain.com # your email
-phone: (496)-169-6557 # your pnone number
-website: https://dwayne.example.com # you website
+email: #email
+website: www.zilhaz.com
 
 # Social link
 #google_url:    # add url link
