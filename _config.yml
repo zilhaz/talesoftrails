@@ -1,7 +1,6 @@
 logo: # add logo name
 title: Tales of Trails
-description:  # this means to ignore newlines until "baseurl:"
-  Tales of Trails is a landscape picture blog of the places we stumbled upon. 
+description: Tales of Trails is a travel photo blog of the places we stumbled upon. 
 permalink: ':title/'
 baseurl: # the subpath of your site, e.g. /blog
 url: "https://www.talesoftrails.com" # the base hostname & protocol for your site, e.g. http://example.com
