@@ -3972,8 +3972,8 @@ cite {
 }
 
 #banner .content {
-  background-image: url(../img/mountains.jpg);
-  background-size: cover;
+  /*background-image: url(../img/mountains.jpg);*/
+  /*background-size: cover;*/ 
   padding: 12rem 0 12rem 0;
 }
 
