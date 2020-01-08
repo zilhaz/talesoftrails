@@ -3969,6 +3969,17 @@ cite {
 
 #banner {
   position: relative;
+  z-index: -1; 
+  top: 0px; 
+  left: 0px; 
+  bottom: 0px; 
+  right: 0px; 
+  overflow: hidden; 
+  background-size: cover; 
+  background-color: transparent; 
+  background-repeat: no-repeat; 
+  background-position: 50% 50%; 
+  background-image: url(../img/mountains.jpg);
 }
 
 #banner .content {
